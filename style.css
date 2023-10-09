@@ -18,7 +18,9 @@ body{
     justify-content: space-evenly;
     align-items: center;
 }
-
+#element{
+    color: rgb(19, 70, 165);
+}
 
 .nav-bar a{
     text-decoration: none;
